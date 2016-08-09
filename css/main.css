@@ -1,13 +1,15 @@
 *{
-	font-family: 'Open Sans', sans-serif; 
+	
+	font-family: 'Open Sans', sans-serif;
 }
 .fondo-header{
-	background-color: black;
+	background-color: #424242;
 }
 .titulo{
 	color: white;
 	font-size: 30px;
 }
+
 span{
 	font-weight: 600;
 }
@@ -16,7 +18,7 @@ li{
 }
 
 a:hover{
-	color: pink;
+	color: #FF0080;
 }
 .fondo-blanco{
 	background-color: white;
@@ -33,4 +35,20 @@ a:hover{
 .latest:hover{
 	color: #2e2e2e;
 	font-weight: 600;
+}
+.boton-load{
+	background-color: gray;
+	width: 150px;
+	height: 40px;
+	border-radius: 20px;
+	padding-top: 10px;
+	padding-left: 5px;
+	margin-top: 30px;
+}
+.liga1{
+	color: #FF0080;
+}
+.menu-footer{
+	display: block;
+	margin-left:80px;
 }

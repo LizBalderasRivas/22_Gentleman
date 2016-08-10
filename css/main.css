@@ -1,15 +1,22 @@
-*{
-	
-	font-family: 'Open Sans', sans-serif;
+.gentleman{
+	font-family: 'Candal';
+}
+	.letra{
+	font-family: 'Arvo';
+}
+.letra2{
+	font-family: 'Poppins';
+}
+.size{
+	font-size: 13px;
 }
 .fondo-header{
 	background-color: #424242;
 }
 .titulo{
-	color: white;
 	font-size: 30px;
+	font-family: 'Open Sans Condensed'
 }
-
 span{
 	font-weight: 600;
 }
@@ -19,6 +26,10 @@ li{
 
 a:hover{
 	color: #FF0080;
+}
+.iconos{
+	font-size: 15px;
+	padding-top: 15px;
 }
 .fondo-blanco{
 	background-color: white;
@@ -43,6 +54,15 @@ a:hover{
 	border-radius: 20px;
 	padding-top: 10px;
 	padding-left: 5px;
+	margin-top: 30px;
+}
+.boton-follow{
+	background-color: gray;
+	width: 80px;
+	height: 30px;
+	border-radius: 10px;
+	padding-top: 5px;
+	padding-left: 15px;
 	margin-top: 30px;
 }
 .liga1{
